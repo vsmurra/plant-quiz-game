@@ -2,7 +2,7 @@
 
 ## Project Description
 
-The Plant Trivia Quiz Game is a game that challenges players with questions about plants. The game will different multiple categories, a scoring system, and a sound for correct and incorrect answers. The goal is to educate players with engaging questions while keeping track of their progress. (this plant helps with … xx, xx, xx, xx)
+The Plant Trivia Quiz Game is a game that challenges players with questions about plants. The game will have multiple categories, a scoring system, and a sound for correct and incorrect answers. The goal is to educate players with engaging questions while keeping track of their progress. (this plant helps with … xx, xx, xx, xx)
 
 ## Wire Frames:
  
