@@ -1,6 +1,6 @@
 # plant-quiz-game
 
-
+Logo: PlantsQuizGame
 
 # Test your plant knowledge in this fun quiz game! Answer correctly to win. You only have 3 lives!
 
