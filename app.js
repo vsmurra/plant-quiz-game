@@ -47,7 +47,7 @@ const quizData = [
   },
   {
     question: "Which plant is used to boost the immune system and fight colds?",
-    options: ["Peppermint", "Turmeric", "Elderberry", "Mullein"],
+    options: ["Peppermint", "Holy Basil", "Elderberry", "Mullein"],
     answer: "Elderberry",
   },
   {
@@ -58,14 +58,14 @@ const quizData = [
   },
   {
     question:
-      "Which plant is often used as a natural pain reliever and has anti-inflammatory effects?",
+      "Which plant is often used to support joint health and has anti-inflammatory effects?",
     options: ["Sage", "Lavender", "Cat’s Claw", "Turmeric"],
     answer: "Turmeric",
   },
   {
     question:
       "Which plant is known for its antibacterial and antifungal properties?",
-    options: ["Echinacea", "Tea Tree Oil", "Spearmint", "Ginseng"],
+    options: ["St. John's Wort", "Tea Tree Oil", "Spearmint", "Ginseng"],
     answer: "Tea Tree Oil",
   },
   {
