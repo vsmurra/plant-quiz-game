@@ -15,12 +15,11 @@ const livesContainer = document.getElementById("lives");
 const answerButtons = document.getElementById("answer-buttons");
 
 // Function to start the quiz
-// Update `startQuiz` function to show the first question
 function startQuiz() {
-  startScreen.style.display = "none"; // Hide start screen
+  startScreen.style.display = "none"; // Hides start screen
   quizScreen.classList.remove("hidden");
   // quizScreen.style.display = "block"; // Show quiz screen
-  showQuestion(); // Display the first question
+  showQuestion(); // Displays the first question
 }
 
 // Event listener for the Start Game button
