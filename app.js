@@ -153,7 +153,7 @@ function selectAnswer(playerChoice) {
 }
 
 // Create a reset Button, make it clickable, once you click it, it calls startQuiz
-// HINT: Some variables will need to be reset
+
 function restartGame() {
   // Reset the score to 0
   score = 0;
