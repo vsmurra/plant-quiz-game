@@ -153,7 +153,7 @@ function selectAnswer(playerChoice) {
 }
 
 // Create a reset Button, make it clickable, once you click it, it calls startQuiz
-// HINT: Some variables will need to be reset, HAVE FUN!
+// HINT: Some variables will need to be reset
 function restartGame() {
   // Reset the score to 0
   score = 0;
@@ -174,15 +174,4 @@ function restartGame() {
   // Show the first question again
   showQuestion();
 }
-// shuffle funciton to randomize question (math.random)
 
-//calling function - something like check win lose state-- if the score is 7 or less and current question index is
-
-// Level Up: Instead of having a feedback text saying right or wrong. Use CSS to change a buttons color based on right or wrong :)
-
-//add plantasia music!!!
-//add timelapse of mushrooms growing in background
-
-//if you lose --> you just killed a plant
-
-//calling the funciton to randomoize quesetion (math.random)
