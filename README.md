@@ -2,7 +2,7 @@
 
 Logo: PlantsQuizGame
 
-# Test your plant knowledge in this fun quiz game! Answer correctly to win. You only have 3 lives!
+# Test your plant knowledge in this quiz game! Answer correctly to win. You only have 3 lives.
 
 # How to Play
 - Click "Start Game" to begin.
