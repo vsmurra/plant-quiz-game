@@ -132,6 +132,8 @@ function selectAnswer(playerChoice) {
 
 
 
+  //If there are more questions AND the player has at least one life left, continue the quiz
+  //Otherwise, end the game and show the result.
   if (currentQuestionIndex < quizData.length - 1 && lives > 0) {
     currentQuestionIndex++;
     setTimeout(showQuestion, 1000);
