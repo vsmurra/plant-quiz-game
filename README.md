@@ -9,6 +9,8 @@ Logo: PlantsQuizGame
 - Choose the correct answer to each question.
 - If you lose all your lives, the game ends!
 
+![Wireframe](./assets/wireframe.png)
+
 Play Now
 http://127.0.0.1:5500/index.html
 
