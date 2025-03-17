@@ -105,7 +105,7 @@ function showQuestion() {
   });
 }
 
-// Function to reset answer buttons //Clears old answer buttons before adding new ones //Now calls showQuestion() when the game starts
+// reset answer buttons 
 function resetState() {
   answerButtons.innerHTML = ""; // Clears old answer buttons
   feedback.innerText = "";
@@ -145,14 +145,13 @@ function selectAnswer(playerChoice) {
       answerButton.innerHTML = "";
     }
     const button = document.createElement("button");
-    button.innerText = "Restart Quiz"; // Set text
+    button.innerText = "Restart Quiz"; 
     button.classList.add("reset-btn"); // Add styling class
-    button.addEventListener("click", restartGame); // Call restart function
-    answerButtons.appendChild(button); // Add it to the quiz screen
+    button.addEventListener("click", restartGame); 
+    answerButtons.appendChild(button);
   }
 }
 
-// Create a reset Button, make it clickable, once you click it, it calls startQuiz
 
 function restartGame() {
   // Reset the score to 0
