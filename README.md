@@ -18,6 +18,7 @@ https://vsmurra.github.io/plant-quiz-game/
 - HTML
 - CSS (Flexbox)
 - JavaScript (DOM manipulation)
+- ChatGpt
 
 ## Future Enhancements
 - Add a timer for each question.
