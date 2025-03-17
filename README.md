@@ -12,7 +12,7 @@ Logo: PlantsQuizGame
 ![Wireframe](./assets/wireframe.png)
 
 Play Now
-http://127.0.0.1:5500/index.html
+https://vsmurra.github.io/plant-quiz-game/
 
 ## Technologies Used
 - HTML
