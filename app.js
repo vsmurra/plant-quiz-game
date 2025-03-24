@@ -1,3 +1,9 @@
+// Emre's notes from presentations
+// - Image in the README can be a screenshot 
+// - Add CSS to buttons to make them not the default 
+// - Do lives go into negatives?
+// - Great commenting!
+
 // State variables
 let currentQuestionIndex = 0;
 let score = 0;
